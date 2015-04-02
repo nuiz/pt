@@ -8,5 +8,9 @@
       "name": "author's name",
       "email": "email@example.com"
     }
-  ]
+  ],
+  "require": {
+    "catfan/medoo": "v0.9.8",
+    "slim/slim": "2.6.2"
+  }
 }
